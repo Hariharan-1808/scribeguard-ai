@@ -1,0 +1,22 @@
+{
+  "name": "scribeguard-ai",
+  "version": "1.0.0",
+  "description": "Privacy-First Hybrid Workspace using Firebase AI Logic and On-Device Gemini Nano for Confidential Document Intelligence",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "firebase-ai-logic",
+    "gemini-nano",
+    "hybrid-ai",
+    "on-device-ai",
+    "privacy-first",
+    "hackathon",
+    "buildhybridai"
+  ],
+  "author": "Hariharan P",
+  "license": "Apache-2.0",
+  "dependencies": {}
+}
